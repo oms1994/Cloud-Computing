@@ -19,6 +19,9 @@ Data-Mining
 
 
 1.Hand Writing Image Classification using Gaussian Kernel
+
 2.Kmeans Clustering using  Gaussian Kernel and Centroid
+
 3.Data Classification using Centroid,SVM and Linear Regression.
+
 4.KNN Classification of huge data
